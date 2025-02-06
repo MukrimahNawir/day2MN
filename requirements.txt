@@ -1,1 +1,8 @@
 shap
+streamlit
+pandas
+numpy
+sentence-transformers
+scikit-learn
+streamlit-shap
+matplotlib
